@@ -1,6 +1,8 @@
 # find-printers
 
-Collects info about the printers installed on a Mac, with reachable ones first, and saves it to `~/Downloads/printer.txt`.
+Writes an `lpadmin` line for each Konica Minolta printer installed on a Mac, ready to paste into
+`bosthlm-installation`'s `AppDelegate.applescript`, to `~/Downloads/printer.txt`. Other printers,
+like home printers, are only listed by name.
 
 Run in Terminal:
 
