@@ -1,6 +1,6 @@
 # find-printers
 
-Collects info about the printers a Mac can reach and saves it to `~/Downloads/printer.txt`.
+Collects info about the printers installed on a Mac, with reachable ones first, and saves it to `~/Downloads/printer.txt`.
 
 Run in Terminal:
 
